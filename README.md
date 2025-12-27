@@ -413,4 +413,3 @@ nextGame();
 </script>
 
 </body>
-</html>
